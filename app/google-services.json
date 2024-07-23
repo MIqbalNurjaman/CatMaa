@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684544115701",
+    "project_id": "catmaa-77873",
+    "storage_bucket": "catmaa-77873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684544115701:android:277ab90149f41e064156bc",
+        "android_client_info": {
+          "package_name": "com.example.catmaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAytm9S8DGwUqMjsWRqBZazIdON-aakGi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
